@@ -1,0 +1,10 @@
+PKG_NAME=nostalgic_hurin
+PKG_SUMMARY=nostalgic_hurin-summary
+PKG_DESCRIPTION=nostalgic_hurin-description
+PKG_KEYWORDS=nostalgic_hurin-keywords
+PKG_VERSION=0.0.1
+PKG_DISTNAME=nostalgic_hurin-0.0.1
+PKG_REPO=https://github.com/pnoulis/nostalgic_hurin
+PKG_HOMEPAGE=https://github.com/pnoulis/nostalgic_hurin#readme
+PKG_BUGREPORT=https://github.com/pnoulis/nostalgic_hurin/issues
+PKG_DOCS=https://github.com/pnoulis/nostalgic_hurin#readme

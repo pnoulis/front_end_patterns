@@ -1,0 +1,49 @@
+{
+  "name": "nostalgic_hurin",
+  "version": "0.0.1",
+  "description": "nostalgic_hurin-summary",
+  "homepage": "https://github.com/pnoulis/nostalgic_hurin#readme",
+  "bugs": "https://github.com/pnoulis/nostalgic_hurin/issues",
+  "keywords": [
+    "nostalgic_hurin-keywords"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pnoulis/nostalgic_hurin.git"
+  },
+  "scripts": {
+    "dev": "make run",
+    "build": "make build",
+    "test": "make test"
+  },
+  "type": "module",
+  "private": true,
+  "browser": true,
+  "engines": {
+    "node": ">=19.8.1",
+    "npm": ">=9.6.2"
+  },
+  "dependencies": {
+    "@types/react": "^18.2.7",
+    "@types/react-dom": "^18.2.4",
+    "@vitejs/plugin-react": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2",
+    "styled-components": "^6.0.0-rc.2",
+    "vite": "^4.3.8",
+    "vite-plugin-svgr": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "pino-pretty": "^10.0.0",
+    "prettier": "^2.8.8",
+    "vitest": "^0.31.1"
+  }
+}
